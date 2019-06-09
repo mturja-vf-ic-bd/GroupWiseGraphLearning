@@ -39,3 +39,9 @@ do the classification.
 ## Author
 Md Asadullah Turja.  
 email: mturja@cs.unc.edu
+
+Guorong Wu.
+email: guorong_wu@med.unc.edu
+
+Martin Styner.
+styner@email.unc.edu
