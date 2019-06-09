@@ -2,101 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93eb44d6-1055-41f1-ba67-bffe62b170f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GroupWiseGraphLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/clsf_subnet_min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/coeff_1_2.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/coeff_1_3.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/coeff_2_3.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/dang_paper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/disc_node.node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/disc_regions.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/eigen_alignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/lasso.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/mixture_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/node_list.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/read_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/result_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/t_pairs_1_2.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/t_pairs_1_3.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/t_pairs_2_3.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/t_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classificaiton-Longitudinal/total-variation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluation/eval_noise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluation/evaluation_psnr_spurious.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluation/sm_mod.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluation/spectrum_plot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluation/variation_of_information.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSNR.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSNR_d.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSNR_rw.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSNR_rw_th.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSNR_sm.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSNR_th.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random/find_stat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random/update_parcellation_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circle_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/1_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/1_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/2_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/deep_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/graph_kernel_svm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/kernel_rw.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/svm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compare_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1/027_S_2336_t4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1/027_S_2336_t5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1/027_S_2336_t6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1/027_S_2336_t7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1/helper_files/parcellationTable.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/helper_files/parcellationTable.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hypo_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intrinsic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/noise_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parcellationTable_Ordered.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psnr.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rbf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/show_result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/CurvedText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/EProjSimplex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/L2_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/cartesian_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/color_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/copyParcTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/create_brain_net_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/get_hemisphere.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/organize_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/parcellationTable_Ordered.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/readFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/sortDetriuxNodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GroupWiseGraphLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GroupWiseGraphLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluation/eval_noise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluation/evaluation_psnr_spurious.py" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluation/evaluation_psnr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluation/sm_mod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1/027_S_2336_t4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1/027_S_2336_t5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1/027_S_2336_t6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1/027_S_2336_t7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t1" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t2" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t3" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t4" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t5" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t6" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t7" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t7" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="345">
               <caret line="226" column="25" selection-start-line="226" selection-start-column="25" selection-end-line="226" selection-end-column="25" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
@@ -122,16 +49,16 @@
         <entry file="file://$PROJECT_DIR$/utils/helper.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Evaluation/evaluation_psnr_spurious.py">
+        <entry file="file://$PROJECT_DIR$/Evaluation/evaluation_psnr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3100">
-              <caret line="139" column="86" selection-start-line="139" selection-start-column="86" selection-end-line="139" selection-end-column="86" />
+            <state relative-caret-position="256">
+              <caret line="241" selection-start-line="241" selection-end-line="241" />
               <folding>
                 <element signature="e#1#14#0" expanded="true" />
               </folding>
@@ -142,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Evaluation/variation_of_information.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2573">
+            <state relative-caret-position="-2694">
               <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
                 <element signature="e#156#189#0" expanded="true" />
@@ -154,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classification/svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="170" column="34" lean-forward="true" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+            <state relative-caret-position="4250">
+              <caret line="170" column="34" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -164,10 +91,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Readme.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="31">
+                <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -176,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -186,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/show_result.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="296">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -234,6 +163,7 @@
         <option value="$PROJECT_DIR$/args.py" />
         <option value="$PROJECT_DIR$/Evaluation/modularity_analysis.py" />
         <option value="$PROJECT_DIR$/Evaluation/variation_of_information.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -281,12 +211,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -357,7 +288,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evaluation/evaluation_psnr_spurious.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evaluation/evaluation_psnr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -404,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Nosetests in show_result.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GroupWiseGraphLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -414,19 +345,22 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/show_result.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.modularity_analysis" />
         <item itemvalue="Python.eval_final" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Evaluation" />
         <item itemvalue="Python.show_result" />
-        <item itemvalue="Python tests.Nosetests in show_result.py" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +375,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560111007437</updated>
       <workItem from="1560111010387" duration="1575000" />
-      <workItem from="1560112606360" duration="2619000" />
+      <workItem from="1560112606360" duration="5086000" />
     </task>
     <servers />
   </component>
@@ -463,13 +397,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4194000" />
+    <option name="totallyTimeSpent" value="6661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1971" y="-2" width="1869" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25233132" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19363686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -484,45 +418,24 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.37670514" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.26547745" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="SciView" order="4" sideWeight="0.94949496" visible="true" weight="0.21612726" />
-      <window_info anchor="right" x="0" y="0" width="417" height="882" id="Documentation" order="5" sideWeight="0.05050505" side_tool="true" visible="true" weight="0.21612726" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.95714283" visible="true" weight="0.051563356" />
+      <window_info anchor="right" x="0" y="0" width="417" height="882" id="Documentation" order="5" sideWeight="0.042857144" side_tool="true" visible="true" weight="0.051563356" />
       <window_info anchor="right" id="Database" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>227</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GroupWiseGraphLearning$test.coverage" NAME="test Coverage Results" MODIFIED="1560112359781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GroupWiseGraphLearning$Nosetests_in_test_result_py.coverage" NAME="Nosetests in test_result.py Coverage Results" MODIFIED="1560112666807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="226" column="25" selection-start-line="226" selection-start-column="25" selection-end-line="226" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/raw.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -536,23 +449,6 @@
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Evaluation/evaluation_psnr_spurious.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3100">
-          <caret line="139" column="86" selection-start-line="139" selection-start-column="86" selection-end-line="139" selection-end-column="86" />
-          <folding>
-            <element signature="e#1#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
         </state>
       </provider>
     </entry>
@@ -576,7 +472,7 @@
     <entry file="file://$PROJECT_DIR$/show_result.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -595,9 +491,55 @@
     <entry file="file://$PROJECT_DIR$/Evaluation/raw_mod.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Evaluation/eval_noise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="226" column="25" selection-start-line="226" selection-start-column="25" selection-end-line="226" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Evaluation/evaluation_psnr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4250">
+          <caret line="170" column="34" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Evaluation/variation_of_information.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2573">
+        <state relative-caret-position="-2694">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding>
             <element signature="e#156#189#0" expanded="true" />
@@ -605,28 +547,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classification/svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="170" column="34" lean-forward="true" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="31">
+            <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="75">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
