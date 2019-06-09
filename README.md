@@ -40,8 +40,8 @@ do the classification.
 Md Asadullah Turja.  
 email: mturja@cs.unc.edu
 
-Guorong Wu.
+Guorong Wu.  
 email: guorong_wu@med.unc.edu
 
-Martin Styner.
-styner@email.unc.edu
+Martin Styner.  
+email: styner@email.unc.edu
