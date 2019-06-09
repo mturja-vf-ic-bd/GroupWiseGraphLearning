@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93eb44d6-1055-41f1-ba67-bffe62b170f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GroupWiseGraphLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GroupWiseGraphLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluation/eval_noise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluation/evaluation_psnr_spurious.py" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluation/evaluation_psnr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluation/sm_mod.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1/ 027_S_2336_t3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1/027_S_2336_t4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1/027_S_2336_t5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1/027_S_2336_t6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1/027_S_2336_t7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t1" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t2" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t3" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t4" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t5" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t6" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t7" beforeDir="false" afterPath="$PROJECT_DIR$/data/sub_1_intrinsic/sub_1_smoothed_t7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,19 +69,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="31">
-                <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <first_editor relative-caret-position="281">
+                <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -163,8 +142,8 @@
         <option value="$PROJECT_DIR$/args.py" />
         <option value="$PROJECT_DIR$/Evaluation/modularity_analysis.py" />
         <option value="$PROJECT_DIR$/Evaluation/variation_of_information.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -375,7 +354,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560111007437</updated>
       <workItem from="1560111010387" duration="1575000" />
-      <workItem from="1560112606360" duration="5086000" />
+      <workItem from="1560112606360" duration="5224000" />
     </task>
     <servers />
   </component>
@@ -397,7 +376,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6661000" />
+    <option name="totallyTimeSpent" value="6799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1971" y="-2" width="1869" height="1082" extended-state="6" />
@@ -547,20 +526,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="31">
-            <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="281">
+            <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

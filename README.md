@@ -27,13 +27,14 @@ and saves them in `raw.png` and `intrinsic.png` respectively.
 ## Evaluation
 `Evaluation/evaluation_psnr.py` contains the code for the first experiment.
 * `eval_psnr` plots the PSNR plot in Fig. 2(b).
-* `spurious_change_ratio` prints the spurios change ration mentioned in the paper
+* `spurious_change_ratio` prints the spurios change ratio mentioned in the paper
 
 `variation_of_information.py` computes the NVI mentioned in the second experiment
 in our paper.
 
 `classification/svm.py` contains the code for the classification experiment which
-is the third experiment in our paper.
+is the third experiment in our paper. However, we haven't released all the data to
+do the classification.
 
 ## Author
 Md Asadullah Turja.  
