@@ -7,7 +7,7 @@ First, we examine the connectivity trajectory at each link of the network, where
 the possible noise or computational error in the image processing pipeline.
 Second, we require high-level network geometry quantified by metrics such as network modularity to remain stable along time.
 
-Full paper link: [Paper](https://www.researchgate.net/profile/Md-Asadullah-Turja/publication/336377775_Constructing_Consistent_Longitudinal_Brain_Networks_by_Group-Wise_Graph_Learning/links/602cb9cc4585158939ad6bbb/Constructing-Consistent-Longitudinal-Brain-Networks-by-Group-Wise-Graph-Learning.pdf)
+Our paper was accepted in MICCAI 2019 --- [Link](https://www.researchgate.net/profile/Md-Asadullah-Turja/publication/336377775_Constructing_Consistent_Longitudinal_Brain_Networks_by_Group-Wise_Graph_Learning/links/602cb9cc4585158939ad6bbb/Constructing-Consistent-Longitudinal-Brain-Networks-by-Group-Wise-Graph-Learning.pdf)
 
 ## Result
 ![intrinsic networks](intrinsic.png)
