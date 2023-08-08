@@ -1,4 +1,4 @@
-# Group-wise Graph Learning
+# CoherentGraphSeq
 We  present  here  a  novel  group-wise graph learning method with the application in brain structural network.
 we assume that the observed brain network data consists of intrinsic connectivity information as well as external noise.
 To alleviate the issue of spurious connections at each brain network node, we introduce a sparsity constraint. 
